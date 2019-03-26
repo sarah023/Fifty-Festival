@@ -64,13 +64,13 @@ input {
 .eyes {
   width: 108px;
   height: 32px;
-  background-image: url(eyes_open.svg);
+  background-image: url(src/images/eyes_open.svg);
 }
 
 .hand {
   width: 57px;
   height: 89px;
-  background-image: url(ok_hand.svg);
+  background-image: url(src/images/ok_hand.svg);
   align-self: flex-end;
 }
 
